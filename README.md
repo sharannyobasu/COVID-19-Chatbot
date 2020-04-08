@@ -34,4 +34,11 @@ Note : I am not involved in any kind of monetary transactions and I am not getti
 The significance of developing this chatbot is to spread awareness to all the people about the effects of the virus. Secondly, in our country, testing kits are not available for the entire population. So, in order to save testing kits only to the ones who have developed severe symptoms, I have made this chatbot so that people from their homes can run a scan. The results generated are solely based upon what the users say in response to our questions.
 ### 5) Snapshots :
 
-![](WatsonChat.PNG)
+![](Screenshot%20(224).png)
+![](Screenshot%20(217).png)
+![](Screenshot%20(218).png)
+![](Screenshot%20(219).png)
+![](Screenshot%20(220).png)
+![](Screenshot%20(221).png)
+![](Screenshot%20(223).png)
+
